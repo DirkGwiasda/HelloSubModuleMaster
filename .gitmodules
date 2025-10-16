@@ -1,0 +1,3 @@
+[submodule "HelloSubModuleComponents"]
+	path = HelloSubModuleComponents
+	url = https://github.com/DirkGwiasda/HelloSubModuleComponents.git
